@@ -7,6 +7,7 @@
 </p>
 
 
+Demo: https://stoqey-notebook.cloudaxe.co/
 
 There are very few javascript notebooks for creating algorithmic trading strategies.
 
